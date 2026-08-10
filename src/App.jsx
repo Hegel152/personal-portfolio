@@ -281,7 +281,7 @@ function App() {
             <p>历史文化内容创作者</p>
           </div>
           <div className="contact-links">
-            <a href="mailto:hegel961118@gmail.com"><Mail size={19} strokeWidth={1.5} /><span>hegel961118@gmail.com</span></a>
+            <a href="mailto:17671751783@163.com"><Mail size={19} strokeWidth={1.5} /><span>17671751783@163.com</span></a>
             <a href="tel:17671751783"><Phone size={19} strokeWidth={1.5} /><span>17671751783</span></a>
           </div>
         </div>
