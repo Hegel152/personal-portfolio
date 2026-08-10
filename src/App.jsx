@@ -16,8 +16,8 @@ const writingWorks = [
     title: '帝国顶级权斗',
     type: '事件分析',
     description: '从权力关系与制度背景入手，拆解帝国政治事件中的多方博弈。',
-    image: asset('taizong.jpg'),
-    imageAlt: '步辇图局部',
+    image: asset('qing-politics.jpg'),
+    imageAlt: '清末政治人物历史照片',
     href: 'https://mp.weixin.qq.com/s/A69jsi-oBhzPVIs_i-8vlg',
   },
   {
@@ -34,7 +34,7 @@ const seriesWorks = [
   {
     title: '拨开历史的迷雾',
     label: '长期付费专题',
-    description: '通过明确的主题边界组织内容，持续更新并形成可延展的历史专题。',
+    description: '围绕历史疑案，展开深入分析，将复杂历史问题转化为大众化内容。',
     image: asset('lianpo-linxiangru.jpg'),
     imageAlt: '廉颇蔺相如列传历史画卷局部',
     href: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4NTA0NzMyOQ==&action=getalbum&album_id=2493333231346368514&scene=126#wechat_redirect',
@@ -42,7 +42,7 @@ const seriesWorks = [
   {
     title: '大唐武功三十年：618—649',
     label: '系列历史专题',
-    description: '围绕唐初历史展开系统内容开发，从单篇写作走向专题化、系列化叙事。',
+    description: '以唐初军事与政治进程为线索，构建连续叙事体系，探索长篇历史内容开发。',
     image: asset('night-shining-white.jpg'),
     imageAlt: '唐代韩干照夜白图',
     href: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4NTA0NzMyOQ==&action=getalbum&album_id=4313839678282973191&scene=126#wechat_redirect',
